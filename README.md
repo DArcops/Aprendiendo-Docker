@@ -1,6 +1,46 @@
 # Aprendiendo-Docker
 primeros pasos con docker 
 
+#build
+
+Construye un contenedor de un archivo Docker
+
+#commit
+
+Crea una nueva imagen de los cambios del contenedor
+
+#cp
+
+Copia archivos/carpetas de los contenedores del sistema de archivos a la ruta de host
+
+#diff
+
+Inspecciona los cambios en el sistema de archivos de un contenedor
+
+events
+
+Obtiene eventos en tiempo real desde el servidor
+
+export
+
+Transmite el contenido de un contenedor como un archivo tar
+
+history
+
+Muestra el historial de una imagen
+
+images
+
+Lista las imágenes
+
+import
+
+Crea una nueva imagen del sistema de archivos de los contenidos a partir de un archivo tar
+
+info
+
+Muestra el sistema de información de la pantalla
+
 insert
 
 Inserta un archivo en una imagen
