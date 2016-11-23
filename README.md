@@ -17,110 +17,110 @@ Copia archivos/carpetas de los contenedores del sistema de archivos a la ruta de
 
 Inspecciona los cambios en el sistema de archivos de un contenedor
 
-events
+#events
 
 Obtiene eventos en tiempo real desde el servidor
 
-export
+#export
 
 Transmite el contenido de un contenedor como un archivo tar
 
-history
+#history
 
 Muestra el historial de una imagen
 
-images
+#images
 
 Lista las imágenes
 
-import
+#import
 
 Crea una nueva imagen del sistema de archivos de los contenidos a partir de un archivo tar
 
-info
+#info
 
 Muestra el sistema de información de la pantalla
 
-insert
+#insert
 
 Inserta un archivo en una imagen
 
-inspect
+#inspect
 
 Regresa información de bajo nivel en un contenedor
 
-kill
+#kill
 
 Mata a un contenedor en ejecución (corriendo)
 
-load
+#load
 
 Carga una imagen desde un archivo tar
 
-login
+#login
 
 Registra la sesión para el servidor de registro de Docker
 
-logs
+#logs
 
 Obtiene los registros de un contenedor
 
-port
+#port
 
 Busca el puerto público el cual está NAT-eado y lo hace privado (PRIVATE_PORT)
 
-ps
+#ps
 
 Lista los Contenedores
 
-pull
+#pull
 
 Descarga una imagen o un repositorio del servidor de registros Docker
 
-push
+#push
 
 Empuja una imagen o un repositorio del servidor de registro Docker
 
-restart
+#restart
 
 Reinicia un contenedor en ejecución (corriendo)
 
-rm
+#rm
 
 Elimina uno o más contenedores
 
-rmi
+#rmi
 
 Elimina una o más imágenes
 
-run
+#run
 
 Ejecuta un comando en un contenedor
 
-save
+#save
 
 Guarda una imagen en un archivo tar
 
-search
+#search
 
 Busca una imagen en el índice de Docker
 
-start
+#start
 
 Inicia un contenedor detenido
 
-stop
+#stop
 
 Detiene un contenedor en ejecución (corriendo)
 
-tag
+#tag
 
 Etiqueta una imagen en un repositorio
 
-top
+#top
 
 Busca los procesos en ejecución de un contenedor
 
-versión
+#versión
 
 Muestra la información de versión de Docker
